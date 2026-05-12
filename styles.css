@@ -204,6 +204,16 @@ h3 {
   padding-left: 22px;
 }
 
+.seo-image {
+  margin: 16px 0 20px;
+}
+
+.seo-image img {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--surface-border);
+}
+
 .table-wrap {
   overflow-x: auto;
 }
